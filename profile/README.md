@@ -2,7 +2,7 @@
 This is the central hub for git repositories and tools for NYSED Business Solutions.  The current application developments standards this setup is based on is available at https://confluence.nysed.gov/spaces/IR/pages/17268822/Application+Development+Standards.
 
 ## Request New Repo
-<Link to JIRA ticket when setup>
+Link to JIRA ticket when setup
 
 ## Request Additional User Added To Repo
-<Link to Jira ticket when setup>
+Link to Jira ticket when setup
