@@ -5,4 +5,4 @@ This is the central hub for git repositories and tools for NYSED Business Soluti
 Link to JIRA ticket when setup
 
 ## Request Additional User Added To Repo
-Link to Jira ticket when setup
+[GitHub Repo Access](https://jira.nysed.gov/plugins/servlet/theme/portal/261/create/4601)
